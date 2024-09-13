@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @AnjaliSharma-1
+- 👋 Hi, I’m Anjali Sharma
 - 🌱 I’m currently learning BCA
